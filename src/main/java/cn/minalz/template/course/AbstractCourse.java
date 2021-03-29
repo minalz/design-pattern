@@ -1,4 +1,4 @@
-package cn.minalz.template;
+package cn.minalz.template.course;
 
 /**
  * @description: 模版方法抽象类
