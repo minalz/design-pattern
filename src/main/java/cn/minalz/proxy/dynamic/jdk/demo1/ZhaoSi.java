@@ -1,6 +1,6 @@
 package cn.minalz.proxy.dynamic.jdk.demo1;
 
-import cn.minalz.proxy.staticproxy.IPerson;
+import cn.minalz.proxy.staticproxy.demo1.IPerson;
 
 /**
  * @description:

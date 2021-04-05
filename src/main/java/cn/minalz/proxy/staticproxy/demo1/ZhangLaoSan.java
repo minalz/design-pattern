@@ -1,4 +1,4 @@
-package cn.minalz.proxy.staticproxy;
+package cn.minalz.proxy.staticproxy.demo1;
 
 /**
  * @description:

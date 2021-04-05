@@ -1,6 +1,6 @@
 package cn.minalz.proxy.dynamic.jdk.demo1;
 
-import cn.minalz.proxy.staticproxy.IPerson;
+import cn.minalz.proxy.staticproxy.demo1.IPerson;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

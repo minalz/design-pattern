@@ -1,4 +1,4 @@
-package cn.minalz.proxy.dynamic.jdk.demo2;
+package cn.minalz.proxy.staticproxy.demo2;
 
 /**
  * @description: 动态切换数据源
