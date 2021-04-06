@@ -1,4 +1,4 @@
-package cn.minalz.facade;
+package cn.minalz.facade.demo1;
 
 /**
  * @description:
