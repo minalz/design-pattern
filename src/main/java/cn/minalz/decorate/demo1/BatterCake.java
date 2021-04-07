@@ -1,4 +1,4 @@
-package cn.minalz.decorate;
+package cn.minalz.decorate.demo1;
 
 /**
  * @description:
