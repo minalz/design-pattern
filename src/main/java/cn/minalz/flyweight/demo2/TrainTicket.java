@@ -1,4 +1,4 @@
-package cn.minalz.flyweight;
+package cn.minalz.flyweight.demo2;
 
 import java.util.Random;
 

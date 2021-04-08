@@ -1,4 +1,4 @@
-package cn.minalz.flyweight;
+package cn.minalz.flyweight.demo1;
 
 /**
  * @description:

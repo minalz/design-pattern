@@ -1,4 +1,4 @@
-package cn.minalz.flyweight;
+package cn.minalz.flyweight.demo1;
 
 /**
  * @description:
@@ -11,4 +11,8 @@ public class Test1 {
         ITicket ticket = TicketFactory.queryTicket("上海南", "北京");
         ticket.showInfo("软卧");
     }
+
+    /**
+     * 上海南->北京: 软卧价格: 286元
+     */
 }
