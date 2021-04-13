@@ -7,5 +7,4 @@ package cn.minalz.composite;
  **/
 public abstract class CourseComponent {
 
-    
 }
