@@ -1,7 +1,5 @@
 package cn.minalz.designPrinciples.pool;
 
-import com.sun.org.apache.xml.internal.security.Init;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.Connection;
