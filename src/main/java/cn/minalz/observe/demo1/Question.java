@@ -1,4 +1,4 @@
-package cn.minalz.observe;
+package cn.minalz.observe.demo1;
 
 import lombok.Data;
 

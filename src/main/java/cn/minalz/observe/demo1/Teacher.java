@@ -1,4 +1,4 @@
-package cn.minalz.observe;
+package cn.minalz.observe.demo1;
 
 import java.util.Observable;
 import java.util.Observer;
