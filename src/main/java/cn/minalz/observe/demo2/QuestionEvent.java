@@ -1,6 +1,6 @@
 package cn.minalz.observe.demo2;
 
-import cn.minalz.observe.demo1.Question;
+import cn.minalz.observe.demo2.Question;
 import com.google.common.eventbus.Subscribe;
 
 /**
@@ -11,7 +11,7 @@ import com.google.common.eventbus.Subscribe;
 public class QuestionEvent {
 
     @Subscribe
-    public void question(Question question) {
-        System.out.println(question);
+    public void subscribe(Question question) {
+        System.out.println("question：" + question);
     }
 }
