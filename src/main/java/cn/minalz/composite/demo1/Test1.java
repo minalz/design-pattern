@@ -1,4 +1,4 @@
-package cn.minalz.composite;
+package cn.minalz.composite.demo1;
 
 /**
  * @description:
