@@ -19,4 +19,12 @@ public class Test1 {
 
         controller.executes();
     }
+
+    /**
+     * 正常播放
+     * 暂停播放
+     * 正常播放
+     * 停止播放
+     * 倍速播放
+     */
 }
